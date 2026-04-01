@@ -1,0 +1,2 @@
+[console_scripts]
+omega-mcp = omega_mcp_server.server:main
